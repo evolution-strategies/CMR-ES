@@ -1,4 +1,4 @@
-# CMR-ES proposed on EASNN 2022
+# CMR-ES proposed on ESANN 2022
 # Paper "A Fast and Simple Evolution Strategy with Covariance Matrix Estimation"
 # by Oliver Kramer, Computational Intelligence Lab, University of Oldenburg
 
